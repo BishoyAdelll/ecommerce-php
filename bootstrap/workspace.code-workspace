@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap-5.3.0-alpha1-dist",
+			"path": "..\\bootstrap-5.3.0-alpha1-dist"
+		},
+		{
+			"name": "bootstrap",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap-5.3.0-alpha1-dist"
+	}
+}
